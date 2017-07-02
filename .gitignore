@@ -1,0 +1,10 @@
+syntax: glob
+*ReSharper*
+bin
+obj
+*.suo
+*.user
+*dotCover
+DFM.MVC/data/log_files
+*.orig
+.hg*
